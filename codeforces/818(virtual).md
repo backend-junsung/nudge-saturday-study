@@ -1,4 +1,4 @@
-# [Codeforces Round #816 (Div. 2)](https://codeforces.com/contest/1717)
+# [Codeforces Round #818 (Div. 2)](https://codeforces.com/contest/1717)
 
 책이 회사에 있어 풀었던 코드포스로 대체한다. 2022-09-04
 
